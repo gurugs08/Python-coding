@@ -1,1 +1,1 @@
-print("hello world guru jdfnkd")
+print("hello world guru")
