@@ -1,3 +1,1 @@
-print("hello world guru")
-print("phew")
-print("gugugu")
+print("hello hey this is guru")
