@@ -1,1 +1,5 @@
 print("hello hey this is guru")
+print("helloooooooooo")
+print("cha")
+print(3+2)
+print(5+7)
